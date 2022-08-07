@@ -1,7 +1,9 @@
 # projects-preview
 
-☑️ <a href="https://github.com/fufic123/projects-preview/tree/main/social-media-app">social-media-app</a>
+👾 social-media-app 
+☑️ <a href="https://github.com/fufic123/projects-preview/tree/main/social-media-app">Preview</a>
+☑️ <a href="https://github.com/fufic123/social-media-app">Source code</a>
 
-☑️ <a href="https://github.com/fufic123/projects-preview/tree/main/todo-app">todo-app</a>
-
-
+👾 todo-app 
+☑️ <a href="https://github.com/fufic123/projects-preview/tree/main/todo-app">Preview</a>
+☑️ <a href="https://github.com/fufic123/todo-app">Source code</a>
